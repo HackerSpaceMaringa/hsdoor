@@ -1,0 +1,2 @@
+[global.databases]
+keys = { url = "/tmp/keys.sqlite" }
